@@ -28,6 +28,8 @@ System modeling formalisms and techniques
  - [The place of Reduced Order Models in a development cycle](https://buff.ly/4gbAd2q)
  - [Pendulum Steady State - question](https://buff.ly/421LiPV)
  - [Pendulum Steady State - answer](https://buff.ly/4fsiaUV)
+ - [Reflected inertia on fast axis](https://buff.ly/4j4tlpI)
+ - [Notebook on Equivalent inertia](https://buff.ly/409xUXf)
 
 Numerics:
  - [Integration method - part 1](https://buff.ly/4iMYj5s)
